@@ -10,7 +10,7 @@ numpy
 pandas
 Pillow
 #pyfiglet==0.8.post1
-rdkit_pypi==2022.9.2
+#rdkit_pypi==2022.9.2
 requests
 seaborn==0.12.2
 statannot==0.2.3
@@ -43,3 +43,4 @@ sqlalchemy
 arxiv
 duckduckgo-search
 wikipedia
+langchain-commmunity
