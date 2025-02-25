@@ -1,0 +1,536 @@
+Centres_ID,ESG_UNSDG_NO,UNSDG_ESG,Category,Education,KPI,Member_total,Percentage_YTD,Percentage_2022,Amount,Property_Area
+CC01,Environment,SCOPE 2 indirect paid emissions ,Youth,Secondary,tCO2e,302,0.9,0.9,12004,Cheung Chau
+CC01,Goverance,Business Ethics,Children,Primary,Business Ethics,123,0.9,0.88,-,Cheung Chau
+CC01,Social,Diversity and Inclusion,Elderly,Graduate,Diversity and Inclusion,171,0.9,0.91,-,Cheung Chau
+CC01,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,391,0.9,0.9,-,Cheung Chau
+CC01,3,Good Health and Well-being,Children,Primary,Covid-19,236,0.91,0.91,-,Cheung Chau
+CC01,3,Good Health and Well-being,Youth,Secondary,Youth-care,338,0.93,0.92,-,Cheung Chau
+CC01,4,Quality Education,Elderly,Graduate,F2F Learning,434,0.92,0.92,-,Cheung Chau
+CC01,4,Quality Education,Elderly,Graduate,Outbound Training,398,0.92,0.91,-,Cheung Chau
+CC01,5,Gender Equality,Adult,Graduate,Women in workplace,342,0.45,0.46,-,Cheung Chau
+CC01,5,Gender Equality,Adult,Not Graduate,Gender Equality,211,0.93,0.93,-,Cheung Chau
+CC01,8,Decent Work and Economic Growth,Elderly,Graduate,Growth Ouput,258,0.89,0.89,-,Cheung Chau
+CC01,8,Decent Work and Economic Growth,Elderly,Graduate,Green Economy,417,0.94,0.93,-,Cheung Chau
+CC01,10,Reduce Inequalities,Elderly,Graduate,Task delegation,275,0.91,0.88,-,Cheung Chau
+CC01,10,Reduce Inequalities,Adult,Graduate,Social Integration,244,0.94,0.92,-,Cheung Chau
+CC01,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,157,0.9,0.9,-,Cheung Chau
+CC01,16,"Peace, Justice and Strong Institutions",Youth,University,Strong Institutions,379,0.92,0.93,-,Cheung Chau
+CC01,17,Partnerships for the Goals,Adult,Graduate,Social Partners,355,0.89,0.89,-,Cheung Chau
+CC01,17,Partnerships for the Goals,Youth,University,Capacity Development,310,0.9,0.9,-,Cheung Chau
+CC01,17,Partnerships for the Goals,Elderly,Graduate,Business Partners,231,0.91,0.89,-,Cheung Chau
+HK01,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,391,0.9,0.9,-,Hong Kong Island
+HK01,3,Good Health and Well-being,Children,Primary,Covid-19,236,0.91,0.91,-,Hong Kong Island
+HK01,3,Good Health and Well-being,Youth,Secondary,Youth-care,338,0.93,0.92,-,Hong Kong Island
+HK01,4,Quality Education,Elderly,Graduate,F2F Learning,434,0.92,0.92,-,Hong Kong Island
+HK01,4,Quality Education,Elderly,Graduate,Outbound Training,398,0.92,0.91,-,Hong Kong Island
+HK01,5,Gender Equality,Adult,Graduate,Women in workplace,342,0.45,0.46,-,Hong Kong Island
+HK01,5,Gender Equality,Adult,Not Graduate,Gender Equality,211,0.93,0.93,-,Hong Kong Island
+HK01,8,Decent Work and Economic Growth,Elderly,Graduate,Growth Ouput,258,0.89,0.89,-,Hong Kong Island
+HK01,8,Decent Work and Economic Growth,Elderly,Graduate,Green Economy,417,0.94,0.93,-,Hong Kong Island
+HK01,10,Reduce Inequalities,Elderly,Graduate,Task delegation,275,0.91,0.88,-,Hong Kong Island
+HK01,10,Reduce Inequalities,Adult,Graduate,Social Integration,244,0.94,0.92,-,Hong Kong Island
+HK01,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,157,0.9,0.9,-,Hong Kong Island
+HK01,16,"Peace, Justice and Strong Institutions",Youth,University,Strong Institutions,379,0.92,0.93,-,Hong Kong Island
+HK01,17,Partnerships for the Goals,Adult,Graduate,Social Partners,355,0.89,0.89,-,Hong Kong Island
+HK01,17,Partnerships for the Goals,Youth,University,Capacity Development,310,0.9,0.9,-,Hong Kong Island
+HK01,17,Partnerships for the Goals,Elderly,Graduate,Business Partners,231,0.91,0.89,-,Hong Kong Island
+HK01,Environment,Energy Management,Youth,Secondary,Total consumption,407,0.9,0.9,12350,Hong Kong Island
+HK01,Goverance,Business Ethics,Children,Primary,Business Ethics,412,0.9,0.89,-,Hong Kong Island
+HK01,Social,Human Capital,Elderly,Graduate,Attrition rate,412,0.9,0.9,7%,Hong Kong Island
+HK02,3,Good Health and Well-being,Adult,Not Graduate,Covid-19,213,0.9,0.9,-,Hong Kong Island
+HK02,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,226,0.9,0.9,-,Hong Kong Island
+HK02,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,234,0.92,0.92,-,Hong Kong Island
+HK02,4,Quality Education,Adult,Graduate,Outbound Training,438,0.89,0.89,-,Hong Kong Island
+HK02,4,Quality Education,Children,Primary,Online Learning,101,0.89,0.89,-,Hong Kong Island
+HK02,4,Quality Education,Children,Primary,Remote Learning,332,0.91,0.91,-,Hong Kong Island
+HK02,5,Gender Equality,Elderly,Graduate,Gender Equality,193,0.93,0.92,-,Hong Kong Island
+HK02,5,Gender Equality,Adult,Graduate,Gender Equality,325,0.94,0.91,-,Hong Kong Island
+HK02,8,Decent Work and Economic Growth,Elderly,Graduate,"Reduce, Reuse, Recycle",245,0.89,0.89,-,Hong Kong Island
+HK02,8,Decent Work and Economic Growth,Elderly,Graduate,Fair employment,460,0.93,0.91,-,Hong Kong Island
+HK02,10,Reduce Inequalities,Elderly,Graduate,Task delegation,428,0.89,0.89,-,Hong Kong Island
+HK02,10,Reduce Inequalities,Adult,Not Graduate,Diversity and inclusion,311,0.9,0.9,-,Hong Kong Island
+HK02,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,264,0.9,0.9,-,Hong Kong Island
+HK02,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,486,0.91,0.88,-,Hong Kong Island
+HK02,17,Partnerships for the Goals,Adult,Graduate,Business Partners,459,0.89,0.89,-,Hong Kong Island
+HK02,17,Partnerships for the Goals,Adult,Not Graduate,Business Partners,165,0.9,0.9,-,Hong Kong Island
+HK02,Environment,Water Management,Elderly,Graduate,Tonnes,191,0.9,0.9,2000,Hong Kong Island
+HK02,Goverance,Board Accountablity,Adult,Graduate,Board Accountablity,309,0.9,0.88,-,Hong Kong Island
+HK02,Social,Customer Engagement,Children,Primary,Customer Engagement,265,0.9,0.91,-,Hong Kong Island
+HK03,3,Good Health and Well-being,Youth,Secondary,Youth-care,199,0.89,0.89,-,Hong Kong Island
+HK03,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,209,0.93,0.93,-,Hong Kong Island
+HK03,4,Quality Education,Adult,Graduate,Outreach Training,385,0.9,0.9,-,Hong Kong Island
+HK03,4,Quality Education,Elderly,Graduate,Outreach Training,310,0.91,0.93,-,Hong Kong Island
+HK03,4,Quality Education,Children,Primary,Growth Ouput,484,0.92,0.93,-,Hong Kong Island
+HK03,5,Gender Equality,Youth,Tertiary,Women in workplace,192,0.45,0.44,-,Hong Kong Island
+HK03,5,Gender Equality,Elderly,Graduate,Women in workplace,463,0.45,0.46,-,Hong Kong Island
+HK03,5,Gender Equality,Youth,Secondary,Gender Equality,353,0.5,0.5,-,Hong Kong Island
+HK03,8,Decent Work and Economic Growth,Elderly,Graduate,Decent workplace,175,0.9,0.9,-,Hong Kong Island
+HK03,8,Decent Work and Economic Growth,Adult,Graduate,Decent workplace,385,0.94,0.92,-,Hong Kong Island
+HK03,10,Reduce Inequalities,Elderly,Graduate,Diversity and inclusion,462,0.9,0.9,-,Hong Kong Island
+HK03,10,Reduce Inequalities,Adult,Graduate,Clear equality policies,223,0.93,0.91,-,Hong Kong Island
+HK03,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Strong Institutions,116,0.9,0.9,-,Hong Kong Island
+HK03,16,"Peace, Justice and Strong Institutions",Youth,Secondary,Peace,378,0.93,0.92,-,Hong Kong Island
+HK03,17,Partnerships for the Goals,Elderly,Graduate,Business Partners,467,0.9,0.9,-,Hong Kong Island
+HK03,17,Partnerships for the Goals,Elderly,Graduate,Service Partners,178,0.91,0.92,-,Hong Kong Island
+HK03,Environment,Material Sourcing and Management,Children,Primary,Total material usage,418,0.9,0.9,200,Hong Kong Island
+HK03,Goverance,Shareholder rights,Youth,Secondary,Shareholder rights,380,0.9,0.88,-,Hong Kong Island
+HK03,Social,Supplier Engagement,Adult,Graduate,Supplier Engagement,174,0.9,0.89,-,Hong Kong Island
+HK04,3,Good Health and Well-being,Adult,Graduate,Well-being,388,0.91,0.9,-,Hong Kong Island
+HK04,3,Good Health and Well-being,Adult,Graduate,Well-being,274,0.92,0.92,-,Hong Kong Island
+HK04,4,Quality Education,Children,Primary,Outreach Training,287,0.89,0.89,-,Hong Kong Island
+HK04,4,Quality Education,Elderly,Graduate,Growth Ouput,193,0.91,0.91,-,Hong Kong Island
+HK04,5,Gender Equality,Elderly,Graduate,Women in workplace,313,0.45,0.45,-,Hong Kong Island
+HK04,5,Gender Equality,Adult,Graduate,Gender Equality,443,0.9,0.9,-,Hong Kong Island
+HK04,5,Gender Equality,Adult,Graduate,Gender Equality,267,0.9,0.9,-,Hong Kong Island
+HK04,8,Decent Work and Economic Growth,Adult,Not Graduate,Green Economy,355,0.9,0.9,-,Hong Kong Island
+HK04,8,Decent Work and Economic Growth,Adult,Graduate,Green Economy,108,0.9,0.9,-,Hong Kong Island
+HK04,8,Decent Work and Economic Growth,Adult,Not Graduate,Green Economy,202,0.94,0.93,-,Hong Kong Island
+HK04,10,Reduce Inequalities,Elderly,Graduate,Clear equality policies,144,0.91,0.89,-,Hong Kong Island
+HK04,10,Reduce Inequalities,Adult,Graduate,Social Integration,312,0.94,0.91,-,Hong Kong Island
+HK04,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,276,0.89,0.89,-,Hong Kong Island
+HK04,16,"Peace, Justice and Strong Institutions",Youth,Secondary,Justice,198,0.94,0.92,-,Hong Kong Island
+HK04,17,Partnerships for the Goals,Elderly,Graduate,Service Partners,410,0.9,0.9,-,Hong Kong Island
+HK04,17,Partnerships for the Goals,Elderly,Not Graduate,Business Partners,313,0.91,0.9,-,Hong Kong Island
+HK04,Environment,SCOPE 1  direct emissions ,Adult,Graduate,tCO2e,371,0.9,0.9,515,Hong Kong Island
+HK04,Goverance,Business Transparency,Elderly,Graduate,Business Transparency,184,0.9,0.91,-,Hong Kong Island
+HK04,Social,Community Engagement,Youth,Secondary,Community Engagement,122,0.9,0.88,-,Hong Kong Island
+HK05,3,Good Health and Well-being,Adult,Not Graduate,Well-being,288,0.9,0.9,-,Hong Kong Island
+HK05,3,Good Health and Well-being,Adult,Not Graduate,Well-being,410,0.91,0.88,-,Hong Kong Island
+HK05,4,Quality Education,Adult,Graduate,Online Learning,252,0.9,0.9,-,Hong Kong Island
+HK05,4,Quality Education,Elderly,Graduate,Outreach Training,364,0.92,0.92,-,Hong Kong Island
+HK05,5,Gender Equality,Adult,Not Graduate,Women in workplace,406,0.45,0.44,-,Hong Kong Island
+HK05,5,Gender Equality,Youth,University,Gender Equality,225,0.5,0.51,-,Hong Kong Island
+HK05,8,Decent Work and Economic Growth,Children,Primary,Green Economy,160,0.91,0.88,-,Hong Kong Island
+HK05,8,Decent Work and Economic Growth,Adult,Graduate,Green Economy,390,0.92,0.91,-,Hong Kong Island
+HK05,8,Decent Work and Economic Growth,Elderly,Graduate,"Reduce, Reuse, Recycle",413,0.92,0.92,-,Hong Kong Island
+HK05,10,Reduce Inequalities,Youth,Secondary,Social Integration,120,0.9,0.9,-,Hong Kong Island
+HK05,10,Reduce Inequalities,Elderly,Graduate,Social Integration,441,0.9,0.9,-,Hong Kong Island
+HK05,10,Reduce Inequalities,Adult,Graduate,Social Integration,457,0.94,0.93,-,Hong Kong Island
+HK05,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,277,0.9,0.9,-,Hong Kong Island
+HK05,16,"Peace, Justice and Strong Institutions",Children,Primary,Peace,377,0.94,0.92,-,Hong Kong Island
+HK05,17,Partnerships for the Goals,Elderly,Graduate,Capacity Development,143,0.89,0.89,-,Hong Kong Island
+HK05,17,Partnerships for the Goals,Elderly,Not Graduate,Decent workplace,168,0.92,0.93,-,Hong Kong Island
+HK05,Environment,SCOPE 2 indirect paid emissions ,Youth,Secondary,tCO2e,320,0.9,0.9,12983,Hong Kong Island
+HK05,Goverance,Government related certification,Children,Primary,Government related certification,415,0.9,0.92,-,Hong Kong Island
+HK05,Social,Social related certificate,Elderly,Graduate,Social related certificate,360,0.9,0.88,3,Hong Kong Island
+HK06,3,Good Health and Well-being,Adult,Graduate,Well-being,233,0.9,0.9,-,Hong Kong Island
+HK06,3,Good Health and Well-being,Children,Primary,Green Economy,459,0.94,0.92,-,Hong Kong Island
+HK06,4,Quality Education,Adult,Graduate,Remote Learning,222,0.9,0.9,-,Hong Kong Island
+HK06,4,Quality Education,Children,Primary,Online Learning,127,0.93,0.93,-,Hong Kong Island
+HK06,5,Gender Equality,Elderly,Not Graduate,Women in workplace,297,0.45,0.43,-,Hong Kong Island
+HK06,5,Gender Equality,Adult,Graduate,Gender Equality,363,0.93,0.92,-,Hong Kong Island
+HK06,8,Decent Work and Economic Growth,Children,Primary,Sustainable Service,485,0.91,0.91,-,Hong Kong Island
+HK06,8,Decent Work and Economic Growth,Elderly,Graduate,"Reduce, Reuse, Recycle",138,0.91,0.92,-,Hong Kong Island
+HK06,10,Reduce Inequalities,Youth,Tertiary,Diversity and inclusion,233,0.89,0.89,-,Hong Kong Island
+HK06,10,Reduce Inequalities,Youth,Secondary,Diversity and inclusion,110,0.93,0.92,-,Hong Kong Island
+HK06,10,Reduce Inequalities,Elderly,Graduate,Clear equality policies,240,0.94,0.93,-,Hong Kong Island
+HK06,16,"Peace, Justice and Strong Institutions",Children,Primary,Justice,285,0.91,0.93,-,Hong Kong Island
+HK06,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,267,0.94,0.93,-,Hong Kong Island
+HK06,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,248,0.94,0.93,-,Hong Kong Island
+HK06,17,Partnerships for the Goals,Adult,Graduate,Business Partners,249,0.89,0.89,-,Hong Kong Island
+HK06,17,Partnerships for the Goals,Adult,Graduate,Sustainable Service,148,0.9,0.9,-,Hong Kong Island
+HK06,Environment,SCOPE 3 indirect emissionssion supplier,Elderly,Graduate,tCO2e,298,0.9,0.9,413,Hong Kong Island
+HK06,Goverance,Business stablity,Adult,Graduate,Business stablity,262,0.9,0.9,-,Hong Kong Island
+HK06,Social,Product and services,Children,Primary,Product and services,280,0.9,0.91,-,Hong Kong Island
+HK07,3,Good Health and Well-being,Elderly,Graduate,Decent workplace,499,0.85,0.85,-,Hong Kong Island
+HK07,3,Good Health and Well-being,Youth,Secondary,Covid-19,234,0.91,0.9,-,Hong Kong Island
+HK07,4,Quality Education,Adult,Graduate,Outbound Training,201,0.85,0.85,-,Hong Kong Island
+HK07,5,Gender Equality,Elderly,Graduate,Women in workplace,330,0.45,0.43,-,Hong Kong Island
+HK07,5,Gender Equality,Elderly,Graduate,Gender Equality,364,0.91,0.9,-,Hong Kong Island
+HK07,8,Decent Work and Economic Growth,Elderly,Graduate,Fair employment,467,0.85,0.85,-,Hong Kong Island
+HK07,8,Decent Work and Economic Growth,Adult,Graduate,Decent workplace,155,0.89,0.89,-,Hong Kong Island
+HK07,10,Reduce Inequalities,Adult,Graduate,Diversity and inclusion,113,0.92,0.91,-,Hong Kong Island
+HK07,10,Reduce Inequalities,Youth,University,Social Integration,260,0.94,0.93,-,Hong Kong Island
+HK07,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,110,0.89,0.89,-,Hong Kong Island
+HK07,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,399,0.9,0.9,-,Hong Kong Island
+HK07,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,418,0.94,0.93,-,Hong Kong Island
+HK07,17,Partnerships for the Goals,Children,Primary,Business Partners,236,0.89,0.89,-,Hong Kong Island
+HK07,17,Partnerships for the Goals,Elderly,Graduate,Capacity Development,357,0.9,0.9,-,Hong Kong Island
+HK07,17,Partnerships for the Goals,Adult,Graduate,Sustainable Service,157,0.9,0.9,-,Hong Kong Island
+HK07,Environment,Waste,Children,Primary,Tonnes,370,0.9,0.9,1400,Hong Kong Island
+HK07,Goverance,Compliance,Youth,Secondary,Compliance,199,0.9,0.9,-,Hong Kong Island
+HK07,Social,Digital transformation,Adult,Graduate,Digital transformation,494,0.9,0.92,3,Hong Kong Island
+HK08,3,Good Health and Well-being,Youth,Secondary,Youth-care,274,0.9,0.9,-,Hong Kong Island
+HK08,3,Good Health and Well-being,Children,Primary,Children-care,281,0.9,0.9,-,Hong Kong Island
+HK08,3,Good Health and Well-being,Youth,Tertiary,Covid-19,486,0.94,0.93,-,Hong Kong Island
+HK08,4,Quality Education,Adult,Not Graduate,Remote Learning,131,0.85,0.85,-,Hong Kong Island
+HK08,4,Quality Education,Elderly,Graduate,F2F Learning,435,0.9,0.9,-,Hong Kong Island
+HK08,5,Gender Equality,Adult,Graduate,Gender Equality,251,0.9,0.9,-,Hong Kong Island
+HK08,5,Gender Equality,Elderly,Graduate,Gender Equality,183,0.9,0.9,-,Hong Kong Island
+HK08,8,Decent Work and Economic Growth,Youth,Secondary,"Reduce, Reuse, Recycle",181,0.91,0.91,-,Hong Kong Island
+HK08,8,Decent Work and Economic Growth,Elderly,Graduate,Fair employment,365,0.95,0.92,-,Hong Kong Island
+HK08,10,Reduce Inequalities,Elderly,Graduate,Task delegation,154,0.89,0.89,-,Hong Kong Island
+HK08,10,Reduce Inequalities,Adult,Graduate,Social Integration,232,0.94,0.93,-,Hong Kong Island
+HK08,16,"Peace, Justice and Strong Institutions",Elderly,Not Graduate,Justice,344,0.9,0.9,-,Hong Kong Island
+HK08,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,214,0.9,0.9,-,Hong Kong Island
+HK08,17,Partnerships for the Goals,Elderly,Not Graduate,Service Partners,106,0.91,0.89,-,Hong Kong Island
+HK08,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,293,0.91,0.88,-,Hong Kong Island
+HK08,17,Partnerships for the Goals,Adult,Graduate,Sustainable Service,212,0.94,0.93,-,Hong Kong Island
+HK08,Environment,Hazards,Adult,Graduate,Tonnes,302,0.9,0.9,300,Hong Kong Island
+HK08,Goverance,Business Ethics,Elderly,Graduate,Business Ethics,310,0.9,0.9,-,Hong Kong Island
+HK08,Social,Health and safety,Youth,Secondary,Health and safety,155,0.9,0.93,4,Hong Kong Island
+HK09,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,306,0.89,0.89,-,Hong Kong Island
+HK09,3,Good Health and Well-being,Adult,Not Graduate,Well-being,256,0.92,0.92,-,Hong Kong Island
+HK09,3,Good Health and Well-being,Children,Primary,Children-care,279,0.93,0.91,-,Hong Kong Island
+HK09,4,Quality Education,Adult,Not Graduate,Remote Learning,369,0.9,0.9,-,Hong Kong Island
+HK09,4,Quality Education,Youth,Secondary,Outreach Training,435,0.91,0.91,-,Hong Kong Island
+HK09,4,Quality Education,Adult,Graduate,F2F Learning,133,0.93,0.92,-,Hong Kong Island
+HK09,5,Gender Equality,Elderly,Graduate,Women in workplace,152,0.5,0.51,-,Hong Kong Island
+HK09,5,Gender Equality,Adult,Not Graduate,Gender Equality,114,0.94,0.93,-,Hong Kong Island
+HK09,8,Decent Work and Economic Growth,Elderly,Graduate,Growth Ouput,131,0.9,0.9,-,Hong Kong Island
+HK09,8,Decent Work and Economic Growth,Elderly,Graduate,Decent workplace,493,0.9,0.9,-,Hong Kong Island
+HK09,10,Reduce Inequalities,Adult,Not Graduate,Clear equality policies,206,0.89,0.89,-,Hong Kong Island
+HK09,10,Reduce Inequalities,Adult,Graduate,Task delegation,490,0.94,0.93,-,Hong Kong Island
+HK09,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,422,0.89,0.89,-,Hong Kong Island
+HK09,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,195,0.9,0.9,-,Hong Kong Island
+HK09,17,Partnerships for the Goals,Elderly,Not Graduate,Decent workplace,423,0.91,0.88,-,Hong Kong Island
+HK09,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,481,0.92,0.93,-,Hong Kong Island
+HK09,Environment,Land Use and Biodiversity,Youth,Secondary,Total usage,402,0.9,0.9,200,Hong Kong Island
+HK09,Goverance,Board Accountablity,Children,Primary,Board Accountablity,296,0.9,0.9,-,Hong Kong Island
+HK09,Social,Diversity and Inclusion,Elderly,Graduate,Diversity and Inclusion,399,0.9,0.9,-,Hong Kong Island
+HK10,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,168,0.9,0.9,-,Hong Kong Island
+HK10,3,Good Health and Well-being,Adult,Graduate,Well-being,377,0.9,0.9,-,Hong Kong Island
+HK10,4,Quality Education,Youth,University,Online Learning,235,0.89,0.89,-,Hong Kong Island
+HK10,4,Quality Education,Adult,Graduate,Outreach Training,204,0.89,0.89,-,Hong Kong Island
+HK10,4,Quality Education,Elderly,Not Graduate,Remote Learning,392,0.9,0.9,-,Hong Kong Island
+HK10,5,Gender Equality,Elderly,Graduate,Women in workplace,419,0.5,0.49,-,Hong Kong Island
+HK10,5,Gender Equality,Elderly,Not Graduate,Gender Equality,130,0.89,0.89,-,Hong Kong Island
+HK10,5,Gender Equality,Adult,Graduate,Gender Equality,338,0.9,0.9,-,Hong Kong Island
+HK10,8,Decent Work and Economic Growth,Youth,Secondary,Growth Ouput,203,0.9,0.9,-,Hong Kong Island
+HK10,8,Decent Work and Economic Growth,Elderly,Graduate,Sustainable Service,230,0.9,0.9,-,Hong Kong Island
+HK10,10,Reduce Inequalities,Adult,Graduate,Diversity and inclusion,260,0.89,0.89,-,Hong Kong Island
+HK10,10,Reduce Inequalities,Adult,Graduate,Task delegation,147,0.92,0.92,-,Hong Kong Island
+HK10,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,145,0.9,0.9,-,Hong Kong Island
+HK10,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,244,0.91,0.92,-,Hong Kong Island
+HK10,17,Partnerships for the Goals,Adult,Not Graduate,Capacity Development,454,0.89,0.89,-,Hong Kong Island
+HK10,17,Partnerships for the Goals,Adult,Graduate,Business Partners,158,0.9,0.9,-,Hong Kong Island
+HK10,Environment,Climate Risk,Elderly,Graduate,Compliance,191,0.9,0.9,-,Hong Kong Island
+HK10,Goverance,Shareholder rights,Adult,Graduate,Shareholder rights,492,0.9,0.9,-,Hong Kong Island
+HK10,Social,Data privacy,Children,Primary,Data privacy,355,0.9,0.9,-,Hong Kong Island
+KL01,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,334,0.89,0.89,-,Kowloon
+KL01,3,Good Health and Well-being,Children,Primary,Children-care,137,0.9,0.9,-,Kowloon
+KL01,4,Quality Education,Elderly,Graduate,Remote Learning,253,0.9,0.9,-,Kowloon
+KL01,4,Quality Education,Adult,Not Graduate,Outbound Training,245,0.91,0.93,-,Kowloon
+KL01,5,Gender Equality,Adult,Not Graduate,Women in workplace,456,0.51,0.52,-,Kowloon
+KL01,5,Gender Equality,Adult,Graduate,Women in workplace,254,0.52,0.53,-,Kowloon
+KL01,5,Gender Equality,Adult,Graduate,Gender Equality,201,0.85,0.85,-,Kowloon
+KL01,8,Decent Work and Economic Growth,Adult,Graduate,Sustainable Service,497,0.9,0.9,-,Kowloon
+KL01,8,Decent Work and Economic Growth,Children,Primary,Sustainable Service,214,0.9,0.9,-,Kowloon
+KL01,8,Decent Work and Economic Growth,Adult,Graduate,"Reduce, Reuse, Recycle",314,0.92,0.91,-,Kowloon
+KL01,10,Reduce Inequalities,Adult,Graduate,Clear equality policies,357,0.9,0.9,-,Kowloon
+KL01,10,Reduce Inequalities,Adult,Not Graduate,Diversity and inclusion,209,0.93,0.91,-,Kowloon
+KL01,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,142,0.9,0.9,-,Kowloon
+KL01,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,392,0.94,0.93,-,Kowloon
+KL01,17,Partnerships for the Goals,Children,Primary,Sustainable Service,359,0.93,0.93,-,Kowloon
+KL01,17,Partnerships for the Goals,Adult,Graduate,Business Partners,231,0.93,0.92,-,Kowloon
+KL01,Environment,Climate Strategy,Children,Primary,Compliance,359,0.9,0.9,-,Kowloon
+KL01,Goverance,Business Transparency,Youth,Secondary,Business Transparency,275,0.9,0.9,-,Kowloon
+KL01,Social,Human Capital,Adult,Graduate,Human Capital,108,0.9,0.91,400,Kowloon
+KL02,3,Good Health and Well-being,Children,Primary,Covid-19,374,0.89,0.89,-,Kowloon
+KL02,3,Good Health and Well-being,Youth,Secondary,Covid-19,160,0.9,0.9,-,Kowloon
+KL02,4,Quality Education,Elderly,Graduate,Growth Ouput,461,0.89,0.89,-,Kowloon
+KL02,4,Quality Education,Adult,Not Graduate,Online Learning,430,0.92,0.93,-,Kowloon
+KL02,5,Gender Equality,Children,Primary,Women in workplace,306,0.53,0.53,-,Kowloon
+KL02,5,Gender Equality,Elderly,Graduate,Gender Equality,381,0.92,0.92,-,Kowloon
+KL02,8,Decent Work and Economic Growth,Elderly,Graduate,"Reduce, Reuse, Recycle",271,0.9,0.9,-,Kowloon
+KL02,8,Decent Work and Economic Growth,Adult,Graduate,Green Economy,463,0.9,0.9,-,Kowloon
+KL02,8,Decent Work and Economic Growth,Elderly,Graduate,Growth Ouput,272,0.94,0.93,-,Kowloon
+KL02,10,Reduce Inequalities,Elderly,Not Graduate,Clear equality policies,345,0.89,0.89,-,Kowloon
+KL02,10,Reduce Inequalities,Youth,Tertiary,Clear equality policies,131,0.91,0.92,-,Kowloon
+KL02,10,Reduce Inequalities,Elderly,Graduate,Diversity and inclusion,250,0.91,0.91,-,Kowloon
+KL02,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,377,0.9,0.9,-,Kowloon
+KL02,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,360,0.94,0.93,-,Kowloon
+KL02,17,Partnerships for the Goals,Adult,Graduate,Social Partners,154,0.9,0.9,-,Kowloon
+KL02,17,Partnerships for the Goals,Adult,Graduate,Decent workplace,334,0.94,0.93,-,Kowloon
+KL02,Environment,Environment Certificates,Adult,Graduate,Achievement,101,0.9,0.9,2,Kowloon
+KL02,Goverance,Government related certification,Elderly,Graduate,Government related certification,195,0.9,0.9,-,Kowloon
+KL02,Social,Customer Engagement,Youth,Secondary,Customer Engagement,438,0.9,0.89,-,Kowloon
+KL03,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,314,0.9,0.9,-,Kowloon
+KL03,3,Good Health and Well-being,Elderly,Graduate,Covid-19,159,0.91,0.92,-,Kowloon
+KL03,4,Quality Education,Youth,Tertiary,Outbound Training,426,0.9,0.9,-,Kowloon
+KL03,4,Quality Education,Adult,Not Graduate,Online Learning,489,0.93,0.92,-,Kowloon
+KL03,5,Gender Equality,Children,Primary,Women in workplace,331,0.54,0.54,-,Kowloon
+KL03,5,Gender Equality,Adult,Graduate,Gender Equality,281,0.94,0.93,-,Kowloon
+KL03,8,Decent Work and Economic Growth,Youth,Secondary,Green Economy,264,0.93,0.92,-,Kowloon
+KL03,8,Decent Work and Economic Growth,Children,Primary,"Reduce, Reuse, Recycle",234,0.93,0.93,-,Kowloon
+KL03,10,Reduce Inequalities,Adult,Graduate,Task delegation,426,0.85,0.85,-,Kowloon
+KL03,10,Reduce Inequalities,Children,Primary,Clear equality policies,393,0.9,0.9,-,Kowloon
+KL03,10,Reduce Inequalities,Children,Primary,Task delegation,345,0.93,0.93,-,Kowloon
+KL03,16,"Peace, Justice and Strong Institutions",Children,Primary,Strong Institutions,379,0.89,0.89,-,Kowloon
+KL03,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,221,0.9,0.9,-,Kowloon
+KL03,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,437,0.93,0.91,-,Kowloon
+KL03,17,Partnerships for the Goals,Adult,Not Graduate,Business Partners,200,0.9,0.9,-,Kowloon
+KL03,17,Partnerships for the Goals,Adult,Graduate,Social Partners,457,0.93,0.92,-,Kowloon
+KL03,Environment,Energy Management,Youth,Secondary,Total consumption,214,0.9,0.91,2300,Kowloon
+KL03,Goverance,Business stablity,Children,Primary,Business stablity,410,0.9,0.9,-,Kowloon
+KL03,Social,Supplier Engagement,Elderly,Graduate,Supplier Engagement,303,0.9,0.88,-,Kowloon
+KL04,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,295,0.9,0.9,-,Kowloon
+KL04,3,Good Health and Well-being,Adult,Graduate,Covid-19,114,0.91,0.93,-,Kowloon
+KL04,4,Quality Education,Adult,Graduate,F2F Learning,174,0.9,0.9,-,Kowloon
+KL04,4,Quality Education,Children,Primary,Online Learning,366,0.93,0.91,-,Kowloon
+KL04,5,Gender Equality,Youth,University,Gender Equality,443,0.5,0.48,-,Kowloon
+KL04,5,Gender Equality,Adult,Graduate,Gender Equality,217,0.9,0.9,-,Kowloon
+KL04,8,Decent Work and Economic Growth,Youth,Secondary,"Reduce, Reuse, Recycle",229,0.9,0.9,-,Kowloon
+KL04,8,Decent Work and Economic Growth,Youth,Secondary,Sustainable Service,388,0.93,0.92,-,Kowloon
+KL04,10,Reduce Inequalities,Adult,Not Graduate,Diversity and inclusion,175,0.93,0.92,-,Kowloon
+KL04,10,Reduce Inequalities,Adult,Graduate,Clear equality policies,157,0.93,0.93,-,Kowloon
+KL04,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,410,0.89,0.89,-,Kowloon
+KL04,16,"Peace, Justice and Strong Institutions",Youth,Secondary,Peace,110,0.9,0.9,-,Kowloon
+KL04,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,458,0.9,0.9,-,Kowloon
+KL04,17,Partnerships for the Goals,Adult,Not Graduate,Capacity Development,197,0.85,0.85,-,Kowloon
+KL04,17,Partnerships for the Goals,Adult,Graduate,Business Partners,168,0.92,0.92,-,Kowloon
+KL04,17,Partnerships for the Goals,Adult,Graduate,Social Partners,103,0.94,0.93,-,Kowloon
+KL04,Environment,Water Management,Elderly,Graduate,Tonnes,320,0.9,0.89,2000,Kowloon
+KL04,Goverance,Compliance,Adult,Graduate,Compliance,355,0.9,0.9,-,Kowloon
+KL04,Social,Community Engagement,Children,Primary,Community Engagement,205,0.9,0.88,-,Kowloon
+KL05,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,236,0.89,0.89,-,Kowloon
+KL05,3,Good Health and Well-being,Youth,University,Youth-care,116,0.9,0.9,-,Kowloon
+KL05,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,493,0.93,0.92,-,Kowloon
+KL05,4,Quality Education,Adult,Graduate,Online Learning,207,0.9,0.9,-,Kowloon
+KL05,4,Quality Education,Elderly,Not Graduate,Outreach Training,359,0.92,0.91,-,Kowloon
+KL05,5,Gender Equality,Children,Primary,Women in workplace,285,0.55,0.55,-,Kowloon
+KL05,5,Gender Equality,Adult,Graduate,Gender Equality,267,0.9,0.9,-,Kowloon
+KL05,8,Decent Work and Economic Growth,Elderly,Not Graduate,Fair employment,278,0.89,0.89,-,Kowloon
+KL05,8,Decent Work and Economic Growth,Youth,University,Fair employment,294,0.9,0.9,-,Kowloon
+KL05,10,Reduce Inequalities,Adult,Graduate,Social Integration,234,0.89,0.89,-,Kowloon
+KL05,10,Reduce Inequalities,Elderly,Graduate,Diversity and inclusion,273,0.9,0.9,-,Kowloon
+KL05,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,256,0.9,0.9,-,Kowloon
+KL05,16,"Peace, Justice and Strong Institutions",Elderly,Not Graduate,Strong Institutions,454,0.9,0.9,-,Kowloon
+KL05,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,212,0.89,0.89,-,Kowloon
+KL05,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,290,0.9,0.9,-,Kowloon
+KL05,17,Partnerships for the Goals,Elderly,Graduate,Social Partners,437,0.93,0.91,-,Kowloon
+KL05,Environment,Material Sourcing and Management,Children,Primary,Total material usage,373,0.9,0.88,500,Kowloon
+KL05,Goverance,Business Ethics,Youth,Secondary,Business Ethics,279,0.9,0.9,-,Kowloon
+KL05,Social,Social related certificate,Adult,Graduate,Social related certificate,116,0.9,0.91,3,Kowloon
+KL06,3,Good Health and Well-being,Elderly,Graduate,Covid-19,325,0.9,0.9,-,Kowloon
+KL06,3,Good Health and Well-being,Adult,Graduate,Covid-19,159,0.92,0.92,-,Kowloon
+KL06,3,Good Health and Well-being,Adult,Graduate,Well-being,476,0.94,0.93,-,Kowloon
+KL06,4,Quality Education,Adult,Not Graduate,Outbound Training,384,0.85,0.85,-,Kowloon
+KL06,4,Quality Education,Elderly,Graduate,F2F Learning,250,0.9,0.9,-,Kowloon
+KL06,4,Quality Education,Adult,Not Graduate,Outbound Training,111,0.92,0.93,-,Kowloon
+KL06,5,Gender Equality,Children,Primary,Gender Equality,361,0.89,0.89,-,Kowloon
+KL06,5,Gender Equality,Elderly,Graduate,Gender Equality,302,0.89,0.89,-,Kowloon
+KL06,8,Decent Work and Economic Growth,Youth,Secondary,Decent workplace,368,0.85,0.85,-,Kowloon
+KL06,8,Decent Work and Economic Growth,Youth,Secondary,Decent workplace,147,0.91,0.92,-,Kowloon
+KL06,10,Reduce Inequalities,Adult,Not Graduate,Social Integration,250,0.89,0.89,-,Kowloon
+KL06,10,Reduce Inequalities,Children,Primary,Diversity and inclusion,110,0.93,0.93,-,Kowloon
+KL06,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,364,0.91,0.92,-,Kowloon
+KL06,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,376,0.93,0.92,-,Kowloon
+KL06,17,Partnerships for the Goals,Youth,Secondary,Social Partners,154,0.89,0.89,-,Kowloon
+KL06,17,Partnerships for the Goals,Adult,Graduate,Business Partners,379,0.91,0.91,-,Kowloon
+KL06,Environment,SCOPE 1  direct emissions ,Adult,Graduate,tCO2e,204,0.9,0.88,480,Kowloon
+KL06,Goverance,Board Accountablity,Elderly,Graduate,Board Accountablity,199,0.9,0.9,-,Kowloon
+KL06,Social,Product and services,Youth,Secondary,Product and services,263,0.9,0.92,-,Kowloon
+KL07,3,Good Health and Well-being,Adult,Graduate,Well-being,317,0.9,0.91,-,Kowloon
+KL07,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,111,0.93,0.91,-,Kowloon
+KL07,4,Quality Education,Children,Primary,F2F Learning,101,0.85,0.85,-,Kowloon
+KL07,4,Quality Education,Children,Primary,Outbound Training,138,0.9,0.89,-,Kowloon
+KL07,4,Quality Education,Children,Primary,Outbound Training,230,0.93,0.92,-,Kowloon
+KL07,5,Gender Equality,Elderly,Graduate,Gender Equality,197,0.9,0.9,-,Kowloon
+KL07,5,Gender Equality,Children,Primary,Gender Equality,113,0.9,0.9,-,Kowloon
+KL07,5,Gender Equality,Children,Primary,Gender Equality,499,0.9,0.9,-,Kowloon
+KL07,8,Decent Work and Economic Growth,Youth,Secondary,Green Economy,326,0.9,0.9,-,Kowloon
+KL07,8,Decent Work and Economic Growth,Adult,Graduate,Fair employment,290,0.93,0.92,-,Kowloon
+KL07,10,Reduce Inequalities,Elderly,Not Graduate,Task delegation,451,0.9,0.88,-,Kowloon
+KL07,10,Reduce Inequalities,Elderly,Graduate,Social Integration,386,0.93,0.93,-,Kowloon
+KL07,16,"Peace, Justice and Strong Institutions",Children,Primary,Strong Institutions,347,0.94,0.93,-,Kowloon
+KL07,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,305,0.94,0.93,-,Kowloon
+KL07,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,164,0.89,0.89,-,Kowloon
+KL07,17,Partnerships for the Goals,Elderly,Graduate,Social Partners,339,0.92,0.92,-,Kowloon
+KL07,Environment,SCOPE 2 indirect paid emissions ,Youth,Secondary,tCO2e,379,0.9,0.91,11000,Kowloon
+KL07,Goverance,Shareholder rights,Children,Primary,Shareholder rights,387,0.9,0.9,-,Kowloon
+KL07,Social,Digital transformation,Elderly,Graduate,Digital transformation,500,0.9,0.93,4,Kowloon
+KL08,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,239,0.91,0.93,-,Kowloon
+KL08,3,Good Health and Well-being,Adult,Graduate,Well-being,137,0.92,0.92,-,Kowloon
+KL08,4,Quality Education,Adult,Graduate,Online Learning,227,0.9,0.91,-,Kowloon
+KL08,4,Quality Education,Elderly,Not Graduate,Remote Learning,309,0.93,0.92,-,Kowloon
+KL08,5,Gender Equality,Youth,Secondary,Gender Equality,278,0.5,0.47,-,Kowloon
+KL08,5,Gender Equality,Youth,University,Women in workplace,139,0.58,0.58,-,Kowloon
+KL08,5,Gender Equality,Elderly,Graduate,Women in workplace,354,0.58,0.8,-,Kowloon
+KL08,8,Decent Work and Economic Growth,Youth,Secondary,Green Economy,267,0.8,0.85,-,Kowloon
+KL08,8,Decent Work and Economic Growth,Youth,Secondary,Growth Ouput,161,0.92,0.91,-,Kowloon
+KL08,8,Decent Work and Economic Growth,Adult,Graduate,Fair employment,185,0.93,0.92,-,Kowloon
+KL08,10,Reduce Inequalities,Adult,Not Graduate,Diversity and inclusion,193,0.91,0.91,-,Kowloon
+KL08,10,Reduce Inequalities,Elderly,Graduate,Clear equality policies,192,0.94,0.93,-,Kowloon
+KL08,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,395,0.89,0.89,-,Kowloon
+KL08,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,176,0.9,0.88,-,Kowloon
+KL08,17,Partnerships for the Goals,Elderly,Graduate,Capacity Development,298,0.91,0.92,-,Kowloon
+KL08,17,Partnerships for the Goals,Adult,Graduate,Service Partners,160,0.93,0.91,-,Kowloon
+KL08,Environment,SCOPE 3 indirect emissionssion supplier,Elderly,Graduate,tCO2e,500,0.9,0.92,387,Kowloon
+KL08,Goverance,Business Transparency,Adult,Graduate,Business Transparency,207,0.9,0.91,-,Kowloon
+KL08,Social,Health and safety,Children,Primary,Health and safety,170,0.9,0.9,-,Kowloon
+KL09,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,398,0.9,0.91,-,Kowloon
+KL09,3,Good Health and Well-being,Children,Primary,Children-care,300,0.96,0.92,-,Kowloon
+KL09,4,Quality Education,Adult,Graduate,Growth Ouput,457,0.89,0.89,-,Kowloon
+KL09,4,Quality Education,Children,Primary,Growth Ouput,303,0.92,0.93,-,Kowloon
+KL09,5,Gender Equality,Adult,Graduate,Gender Equality,311,0.85,0.85,-,Kowloon
+KL09,5,Gender Equality,Elderly,Graduate,Gender Equality,150,0.9,0.9,-,Kowloon
+KL09,8,Decent Work and Economic Growth,Elderly,Graduate,Sustainable Service,208,0.9,0.92,-,Kowloon
+KL09,8,Decent Work and Economic Growth,Elderly,Graduate,Growth Ouput,385,0.9,0.93,-,Kowloon
+KL09,8,Decent Work and Economic Growth,Adult,Graduate,Sustainable Service,301,0.9,0.9,-,Kowloon
+KL09,10,Reduce Inequalities,Adult,Not Graduate,Clear equality policies,183,0.89,0.89,-,Kowloon
+KL09,10,Reduce Inequalities,Children,Primary,Clear equality policies,439,0.9,0.88,-,Kowloon
+KL09,10,Reduce Inequalities,Adult,Not Graduate,Diversity and inclusion,486,0.91,0.92,-,Kowloon
+KL09,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,109,0.93,0.93,-,Kowloon
+KL09,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,359,0.93,0.92,-,Kowloon
+KL09,17,Partnerships for the Goals,Adult,Not Graduate,Decent workplace,183,0.9,0.89,-,Kowloon
+KL09,17,Partnerships for the Goals,Adult,Not Graduate,Sustainable Service,334,0.9,0.88,-,Kowloon
+KL09,Environment,Waste,Children,Primary,Tonnes,199,0.9,0.93,1600,Kowloon
+KL09,Goverance,Government related certification,Youth,Secondary,Government related certification,311,0.9,0.89,-,Kowloon
+KL09,Social,Diversity and Inclusion,Adult,Graduate,Diversity and Inclusion,453,0.9,0.9,-,Kowloon
+KL10,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,444,0.9,0.93,-,Kowloon
+KL10,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,396,0.9,0.9,-,Kowloon
+KL10,4,Quality Education,Adult,Graduate,F2F Learning,275,0.9,0.89,-,Kowloon
+KL10,4,Quality Education,Elderly,Graduate,Growth Ouput,145,0.91,0.92,-,Kowloon
+KL10,5,Gender Equality,Youth,Secondary,Gender Equality,392,0.5,0.46,-,Kowloon
+KL10,5,Gender Equality,Elderly,Not Graduate,Gender Equality,343,0.9,0.92,-,Kowloon
+KL10,8,Decent Work and Economic Growth,Children,Primary,Decent workplace,177,0.9,0.91,-,Kowloon
+KL10,8,Decent Work and Economic Growth,Adult,Not Graduate,Growth Ouput,216,0.94,0.93,-,Kowloon
+KL10,10,Reduce Inequalities,Children,Primary,Task delegation,438,0.91,0.91,-,Kowloon
+KL10,10,Reduce Inequalities,Adult,Graduate,Social Integration,272,0.93,0.93,-,Kowloon
+KL10,10,Reduce Inequalities,Elderly,Graduate,Clear equality policies,179,0.93,0.92,-,Kowloon
+KL10,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,449,0.9,0.91,-,Kowloon
+KL10,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,443,0.93,0.91,-,Kowloon
+KL10,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,317,0.93,0.92,-,Kowloon
+KL10,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,156,0.9,0.9,-,Kowloon
+KL10,17,Partnerships for the Goals,Elderly,Graduate,Business Partners,369,0.91,0.93,-,Kowloon
+KL10,Environment,Hazards,Adult,Graduate,Tonnes,149,0.9,0.9,300,Kowloon
+KL10,Goverance,Business stablity,Elderly,Graduate,Business stablity,225,0.9,0.88,-,Kowloon
+KL10,Social,Data privacy,Youth,Secondary,Data privacy,424,0.9,0.91,-,Kowloon
+LT01,Environment,SCOPE 1  direct emissions ,Adult,Graduate,tCO2e,198,0.9,0.93,480,Lantau
+LT01,Goverance,Compliance,Elderly,Graduate,Compliance,251,0.9,0.89,-,Lantau
+LT01,Social,Health and safety,Youth,Secondary,Health and safety,151,0.9,0.9,-,Lantau
+NT01,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,168,0.9,0.92,-,New Territories
+NT01,3,Good Health and Well-being,Adult,Graduate,Covid-19,176,0.9,0.93,-,New Territories
+NT01,4,Quality Education,Elderly,Graduate,Outbound Training,390,0.9,0.9,-,New Territories
+NT01,4,Quality Education,Adult,Graduate,Online Learning,367,0.91,0.91,-,New Territories
+NT01,5,Gender Equality,Elderly,Graduate,Gender Equality,228,0.9,0.91,-,New Territories
+NT01,5,Gender Equality,Adult,Graduate,Gender Equality,156,0.91,0.92,-,New Territories
+NT01,8,Decent Work and Economic Growth,Elderly,Graduate,"Reduce, Reuse, Recycle",163,0.9,0.88,-,New Territories
+NT01,8,Decent Work and Economic Growth,Elderly,Graduate,Green Economy,469,0.9,0.88,-,New Territories
+NT01,10,Reduce Inequalities,Youth,Secondary,Clear equality policies,253,0.9,0.91,-,New Territories
+NT01,10,Reduce Inequalities,Elderly,Graduate,Task delegation,170,0.9,0.89,-,New Territories
+NT01,16,"Peace, Justice and Strong Institutions",Youth,University,Justice,364,0.91,0.92,-,New Territories
+NT01,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,129,0.92,0.91,-,New Territories
+NT01,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,255,0.94,0.93,-,New Territories
+NT01,17,Partnerships for the Goals,Youth,Secondary,Business Partners,485,0.9,0.9,-,New Territories
+NT01,17,Partnerships for the Goals,Children,Primary,Capacity Development,275,0.91,0.93,-,New Territories
+NT01,17,Partnerships for the Goals,Children,Primary,Social Partners,258,0.92,0.92,-,New Territories
+NT01,Environment,Land Use and Biodiversity,Youth,Secondary,Total usage,490,0.9,0.9,200,New Territories
+NT01,Goverance,Compliance,Children,Primary,Compliance,140,0.9,0.88,-,New Territories
+NT01,Social,Human Capital,Elderly,Graduate,Human Capital,416,0.9,0.89,40,New Territories
+NT02,3,Good Health and Well-being,Adult,Graduate,Well-being,280,0.9,0.91,-,New Territories
+NT02,3,Good Health and Well-being,Youth,University,Youth-care,361,0.9,0.92,-,New Territories
+NT02,3,Good Health and Well-being,Youth,Secondary,Covid-19,329,0.93,0.91,-,New Territories
+NT02,4,Quality Education,Adult,Graduate,Outbound Training,335,0.9,0.9,-,New Territories
+NT02,4,Quality Education,Elderly,Graduate,Outreach Training,269,0.9,0.9,-,New Territories
+NT02,5,Gender Equality,Elderly,Graduate,Gender Equality,245,0.9,0.88,-,New Territories
+NT02,5,Gender Equality,Adult,Graduate,Gender Equality,112,0.92,0.92,-,New Territories
+NT02,8,Decent Work and Economic Growth,Adult,Graduate,Green Economy,285,0.89,0.89,-,New Territories
+NT02,8,Decent Work and Economic Growth,Youth,Secondary,Fair employment,141,0.9,0.88,-,New Territories
+NT02,10,Reduce Inequalities,Adult,Graduate,Social Integration,177,0.91,0.92,-,New Territories
+NT02,10,Reduce Inequalities,Adult,Graduate,Clear equality policies,170,0.92,0.91,-,New Territories
+NT02,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Strong Institutions,489,0.92,0.92,-,New Territories
+NT02,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Strong Institutions,192,0.94,0.93,-,New Territories
+NT02,17,Partnerships for the Goals,Youth,Tertiary,Service Partners,316,0.89,0.89,-,New Territories
+NT02,17,Partnerships for the Goals,Adult,Graduate,Capacity Development,323,0.9,0.93,-,New Territories
+NT02,17,Partnerships for the Goals,Adult,Graduate,Decent workplace,183,0.92,0.93,-,New Territories
+NT02,Environment,Climate Risk,Elderly,Graduate,Compliance,205,0.9,0.91,-,New Territories
+NT02,Goverance,Business Ethics,Adult,Graduate,Business Ethics,485,0.9,0.91,-,New Territories
+NT02,Social,Customer Engagement,Children,Primary,Customer Engagement,302,0.9,0.88,-,New Territories
+NT03,3,Good Health and Well-being,Children,Primary,Covid-19,312,0.9,0.88,-,New Territories
+NT03,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,261,0.93,0.92,-,New Territories
+NT03,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,264,0.93,0.93,-,New Territories
+NT03,4,Quality Education,Adult,Not Graduate,Growth Ouput,237,0.9,0.92,-,New Territories
+NT03,4,Quality Education,Adult,Not Graduate,F2F Learning,321,0.9,0.93,-,New Territories
+NT03,4,Quality Education,Elderly,Graduate,Remote Learning,142,0.94,0.93,-,New Territories
+NT03,5,Gender Equality,Elderly,Graduate,Gender Equality,133,0.9,0.89,-,New Territories
+NT03,5,Gender Equality,Adult,Graduate,Gender Equality,446,0.94,0.93,-,New Territories
+NT03,8,Decent Work and Economic Growth,Adult,Not Graduate,Fair employment,239,0.9,0.91,-,New Territories
+NT03,8,Decent Work and Economic Growth,Elderly,Graduate,Sustainable Service,498,0.92,0.92,-,New Territories
+NT03,10,Reduce Inequalities,Adult,Graduate,Task delegation,472,0.9,0.9,-,New Territories
+NT03,10,Reduce Inequalities,Adult,Graduate,Task delegation,183,0.98,0.92,-,New Territories
+NT03,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,479,0.9,0.88,-,New Territories
+NT03,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,449,0.9,0.91,-,New Territories
+NT03,17,Partnerships for the Goals,Children,Primary,Capacity Development,404,0.91,0.93,-,New Territories
+NT03,17,Partnerships for the Goals,Elderly,Graduate,Decent workplace,197,0.93,0.92,-,New Territories
+NT03,Environment,Climate Strategy,Children,Primary,Compliance,135,0.9,0.89,-,New Territories
+NT03,Goverance,Board Accountablity,Youth,Secondary,Board Accountablity,160,0.9,0.92,-,New Territories
+NT03,Social,Supplier Engagement,Adult,Graduate,Supplier Engagement,367,0.9,0.88,-,New Territories
+NT04,3,Good Health and Well-being,Adult,Graduate,Well-being,359,0.89,0.89,-,New Territories
+NT04,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,386,0.9,0.89,-,New Territories
+NT04,4,Quality Education,Adult,Graduate,Growth Ouput,255,0.89,0.89,-,New Territories
+NT04,4,Quality Education,Elderly,Not Graduate,Outreach Training,290,0.91,0.92,-,New Territories
+NT04,4,Quality Education,Adult,Graduate,F2F Learning,319,0.91,0.91,-,New Territories
+NT04,5,Gender Equality,Elderly,Not Graduate,Gender Equality,351,0.9,0.9,-,New Territories
+NT04,5,Gender Equality,Adult,Graduate,Gender Equality,329,0.9,0.91,-,New Territories
+NT04,5,Gender Equality,Elderly,Not Graduate,Fair employment,177,0.94,0.93,-,New Territories
+NT04,8,Decent Work and Economic Growth,Children,Primary,Growth Ouput,309,0.89,0.89,-,New Territories
+NT04,8,Decent Work and Economic Growth,Elderly,Graduate,Fair employment,192,0.94,0.93,-,New Territories
+NT04,10,Reduce Inequalities,Children,Primary,Diversity and inclusion,423,0.92,0.93,-,New Territories
+NT04,10,Reduce Inequalities,Elderly,Not Graduate,Social Integration,402,0.93,0.91,-,New Territories
+NT04,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Justice,454,0.85,0.85,-,New Territories
+NT04,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Peace,288,0.89,0.89,-,New Territories
+NT04,17,Partnerships for the Goals,Adult,Graduate,Service Partners,415,0.9,0.88,-,New Territories
+NT04,17,Partnerships for the Goals,Elderly,Graduate,Service Partners,433,0.94,0.92,-,New Territories
+NT04,Environment,Environment Certificates,Adult,Graduate,Achievement,135,0.9,0.88,2,New Territories
+NT04,Goverance,Shareholder rights,Elderly,Graduate,Shareholder rights,499,0.9,0.93,-,New Territories
+NT04,Social,Community Engagement,Youth,Secondary,Community Engagement,297,0.9,0.91,-,New Territories
+NT05,3,Good Health and Well-being,Adult,Graduate,Growth Ouput,473,0.89,0.89,-,New Territories
+NT05,3,Good Health and Well-being,Elderly,Graduate,Elderly-care,380,0.89,0.89,-,New Territories
+NT05,4,Quality Education,Adult,Graduate,Remote Learning,193,0.9,0.92,-,New Territories
+NT05,4,Quality Education,Elderly,Graduate,Growth Ouput,192,0.91,0.93,-,New Territories
+NT05,5,Gender Equality,Youth,Secondary,Women in workplace,181,0.49,0.4,-,New Territories
+NT05,5,Gender Equality,Adult,Not Graduate,Women in workplace,307,0.53,0.54,-,New Territories
+NT05,5,Gender Equality,Elderly,Graduate,Women in workplace,262,0.54,0.54,-,New Territories
+NT05,8,Decent Work and Economic Growth,Children,Primary,Green Economy,131,0.92,0.92,-,New Territories
+NT05,8,Decent Work and Economic Growth,Children,Primary,Decent workplace,197,0.93,0.92,-,New Territories
+NT05,8,Decent Work and Economic Growth,Elderly,Not Graduate,Green Economy,167,0.94,0.92,-,New Territories
+NT05,10,Reduce Inequalities,Elderly,Graduate,Clear equality policies,337,0.9,0.93,-,New Territories
+NT05,10,Reduce Inequalities,Adult,Graduate,Diversity and inclusion,156,0.92,0.91,-,New Territories
+NT05,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Strong Institutions,129,0.9,0.88,-,New Territories
+NT05,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,189,0.9,0.91,-,New Territories
+NT05,17,Partnerships for the Goals,Elderly,Graduate,Service Partners,180,0.85,0.85,-,New Territories
+NT05,17,Partnerships for the Goals,Adult,Graduate,Business Partners,207,0.91,0.92,-,New Territories
+NT05,Environment,Energy Management,Youth,Secondary,Total consumption,473,0.9,0.88,12438,New Territories
+NT05,Goverance,Business Transparency,Children,Primary,Business Transparency,346,0.9,0.9,-,New Territories
+NT05,Social,Social related certificate,Elderly,Graduate,Social related certificate,404,0.9,0.92,-,New Territories
+NT06,3,Good Health and Well-being,Elderly,Not Graduate,Elderly-care,492,0.93,0.93,-,New Territories
+NT06,3,Good Health and Well-being,Elderly,Not Graduate,Decent workplace,184,0.94,0.92,-,New Territories
+NT06,4,Quality Education,Adult,Graduate,F2F Learning,215,0.91,0.91,-,New Territories
+NT06,4,Quality Education,Elderly,Graduate,Growth Ouput,440,0.93,0.91,-,New Territories
+NT06,5,Gender Equality,Adult,Not Graduate,Women in workplace,157,0.55,0.58,-,New Territories
+NT06,5,Gender Equality,Children,Primary,Gender Equality,272,0.91,0.92,-,New Territories
+NT06,8,Decent Work and Economic Growth,Adult,Not Graduate,Green Economy,232,0.9,0.9,-,New Territories
+NT06,8,Decent Work and Economic Growth,Adult,Graduate,Decent workplace,238,0.9,0.9,-,New Territories
+NT06,8,Decent Work and Economic Growth,Elderly,Graduate,Green Economy,359,0.92,0.92,-,New Territories
+NT06,10,Reduce Inequalities,Youth,Secondary,Task delegation,466,0.89,0.89,-,New Territories
+NT06,10,Reduce Inequalities,Youth,University,Task delegation,208,0.92,0.93,-,New Territories
+NT06,10,Reduce Inequalities,Adult,Graduate,Task delegation,461,0.94,0.92,-,New Territories
+NT06,16,"Peace, Justice and Strong Institutions",Elderly,Graduate,Justice,371,0.89,0.89,-,New Territories
+NT06,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,470,0.93,0.92,-,New Territories
+NT06,17,Partnerships for the Goals,Elderly,Graduate,Capacity Development,474,0.9,0.91,-,New Territories
+NT06,17,Partnerships for the Goals,Elderly,Not Graduate,Decent workplace,144,0.9,0.89,-,New Territories
+NT06,Environment,Water Management,Elderly,Graduate,Tonnes,441,0.9,0.91,1200,New Territories
+NT06,Goverance,Government related certification,Adult,Graduate,Government related certification,481,0.9,0.9,-,New Territories
+NT06,Social,Product and services,Children,Primary,Product and services,279,0.9,0.93,-,New Territories
+NT07,3,Good Health and Well-being,Adult,Graduate,Well-being,139,0.85,0.89,-,New Territories
+NT07,3,Good Health and Well-being,Adult,Graduate,Well-being,264,0.9,0.88,-,New Territories
+NT07,4,Quality Education,Children,Primary,Remote Learning,325,0.89,0.89,-,New Territories
+NT07,4,Quality Education,Elderly,Graduate,F2F Learning,488,0.89,0.9,-,New Territories
+NT07,4,Quality Education,Adult,Graduate,Outreach Training,413,0.92,0.91,-,New Territories
+NT07,5,Gender Equality,Adult,Graduate,Women in workplace,233,0.54,0.55,-,New Territories
+NT07,5,Gender Equality,Children,Primary,Gender Equality,385,0.91,0.92,-,New Territories
+NT07,8,Decent Work and Economic Growth,Youth,Secondary,Sustainable Service,188,0.9,0.88,-,New Territories
+NT07,8,Decent Work and Economic Growth,Youth,Secondary,Green Economy,350,0.94,0.92,-,New Territories
+NT07,10,Reduce Inequalities,Children,Primary,Social Integration,278,0.9,0.9,-,New Territories
+NT07,10,Reduce Inequalities,Children,Primary,Task delegation,479,0.9,0.9,-,New Territories
+NT07,10,Reduce Inequalities,Children,Primary,Social Integration,223,0.92,0.92,-,New Territories
+NT07,16,"Peace, Justice and Strong Institutions",Elderly,Not Graduate,Peace,165,0.9,0.93,-,New Territories
+NT07,16,"Peace, Justice and Strong Institutions",Children,Primary,Peace,229,0.92,0.92,-,New Territories
+NT07,16,"Peace, Justice and Strong Institutions",Adult,Graduate,Peace,325,0.93,0.92,-,New Territories
+NT07,17,Partnerships for the Goals,Adult,Graduate,Business Partners,129,0.9,0.91,-,New Territories
+NT07,17,Partnerships for the Goals,Elderly,Graduate,Decent workplace,172,0.9,0.92,-,New Territories
+NT07,Environment,Material Sourcing and Management,Children,Primary,Total material usage,446,0.9,0.92,400,New Territories
+NT07,Goverance,Business stablity,Youth,Secondary,Business stablity,108,0.9,0.91,-,New Territories
+NT07,Social,Digital transformation,Adult,Graduate,Digital transformation,427,0.9,0.9,-,New Territories
