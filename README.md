@@ -12,8 +12,6 @@ Step 0: activate the virtual environment
  
 Step 1: RUN > pip install -r requirements.txt
 
-Step 2: echo all keys in the os environment
->  echo "export OPENAI_API_KEY='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'" >> ~/.zsh
-source ~/.zsh
+Step 2: echo all keys in the os environment (copy #"..." in .env) on teminal > (push return, if no error come out, it is ok)
 
 Step 3: RUN > python3 -m streamlit run HR_AI_Assitant.py
