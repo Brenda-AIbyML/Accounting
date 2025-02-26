@@ -7,7 +7,9 @@ At terminal > python3 -V (check python3 verison)
 > (no error means virtual environment been created)
 
 Step 0: activate the virtual environment
+
 > source ~/Accounting/bin/activate
+
 (Accounting) ...> cd ~/Accounting (succeed and then go to the ~/Accounting directory)
  
 Step 1: RUN > pip install -r requirements.txt
