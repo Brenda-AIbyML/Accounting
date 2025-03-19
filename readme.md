@@ -37,7 +37,7 @@ The project has been refactored to separate the processing logic from the user i
 
 4. **Run the Application**
    ```bash
-   streamlit run ACApp_v1_modifed.py
+   streamlit run acapp.py
    ```
 
 ## Working with the Application
