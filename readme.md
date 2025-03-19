@@ -2,6 +2,18 @@
 
 This application is a tool for accounting students and professionals to interact with AI models for accounting studies, assignment creation, and document analysis.
 
+It is a good practise to create a virtual environment to experiment the code At terminal > python3 -V (check python3 verison)
+
+## Virtual Environment
+
+python3 -m venv ~/Accounting (no error means virtual environment been created)
+
+Step 0: activate the virtual environment
+
+source ~/Accounting/bin/activate
+
+(Accounting) ...> cd ~/Accounting (succeed and then go to the ~/Accounting directory)
+
 ## Project Structure
 
 The project has been refactored to separate the processing logic from the user interface:
@@ -23,6 +35,13 @@ The project has been refactored to separate the processing logic from the user i
 ## Setup Instructions
 
 1. **Install Required Packages**
+
+Step 1: RUN > pip install -r requirements.txt
+
+Step 2: echo all keys in the os environment (copy #"..." in .env) on teminal > (push return, if no error come out, it is ok)
+
+OR
+
    ```bash
    pip install streamlit langchain-community langchain ollama numpy pandas matplotlib wordcloud
    ```
@@ -48,11 +67,11 @@ The project has been refactored to separate the processing logic from the user i
 - In Advanced Chat, adjust temperature and top-p settings
 - Type your accounting questions in the chat input
 
-### Reading Q&A
+### Financial Accounting Report or Cost Accounting Report Q&A
 
-1. Upload accounting documents (PDF, DOCX, TXT)
+1. Upload accounting reports (PDF, DOCX, TXT)
 2. Wait for processing to complete
-3. Ask questions about the uploaded documents
+3. Ask questions about the uploaded reports
 4. View document analysis including word cloud and statistics
 
 ### Assignment Assistant
